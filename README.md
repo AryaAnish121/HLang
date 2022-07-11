@@ -1,9 +1,9 @@
 
 # HLang
 
-HLang is a programming language created for testing purposes. Don't use this language in your project as it doesn't even have the basic features of a programming language (variables, loops, conditions etc.).
+HLang is a programming language created for testing purposes. Don't use this language in your project as it doesn't even have the basic features of a programming language (variables, loops, conditions, etc.).
 
-This language was created using node.js, a full documentation on it's usage and development will soon be avaiable on youtube.
+This language was created using Node.js. A full documentation on its usage and development will soon be available on YouTube.
 
 ## Hello World
 A basic program in HLang looks like this:
